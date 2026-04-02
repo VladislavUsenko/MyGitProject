@@ -1,2 +1,2 @@
 # MyGitProject
-my test project
+my test project | hello folks!
